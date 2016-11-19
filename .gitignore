@@ -26,4 +26,4 @@ nbdist/
 # NPM
 src/main/resources/node_modules/
 src/main/resources/css/
-src/main/resources/static/
+src/main/resources/static

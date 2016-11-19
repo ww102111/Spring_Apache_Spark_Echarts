@@ -1,7 +1,7 @@
 {
-  "name": "flaskd3",
+  "name": "SpringSpark",
   "version": "1.0.0",
-  "description": "Flask and D3plus",
+  "description": "Spring Boot, Apache Spark and Echarts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +12,8 @@
   ],
   "author": "kuzoncby",
   "license": {
-    "type": "MIT",
-    "url": "https://opensource.org/licenses/MIT"
+    "type": "GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl-3.0.html"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
